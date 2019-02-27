@@ -12,9 +12,9 @@ It has always been a challenge for the visually impaired (VI) to access the Web,
 
 ## Example/ Demo:
 ![Alt text](/media/HapticGloveProgram.mp4?raw=true "CreateTicket")
-![Alt text](/img/HapticGloveProgram2.mp4?raw=true "Seats")
-![Alt text](/img/HapticGloveProgram3.mp4?raw=true "SelectSeat")
-![Alt text](/img/HapticGloveProgram4.jpg?raw=true "Ticket")
+![Alt text](/media/HapticGloveProgram2.mp4?raw=true "Seats")
+![Alt text](/media/HapticGloveProgram3.mp4?raw=true "SelectSeat")
+![Alt text](/media/HapticGloveProgram4.jpg?raw=true "Ticket")
 
 
 
