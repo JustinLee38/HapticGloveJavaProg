@@ -11,10 +11,10 @@ It has always been a challenge for the visually impaired (VI) to access the Web,
 * Write and read from CVS file for easy store and retrieve of data
 
 ## Example/ Demo:
-![Alt text](/media/HapticGloveProgram.mp4?raw=true "CreateTicket")
-![Alt text](/media/HapticGloveProgram2.mp4?raw=true "Seats")
-![Alt text](/media/HapticGloveProgram3.mp4?raw=true "SelectSeat")
-![Alt text](/media/HapticGloveProgram4.jpg?raw=true "Ticket")
+![Alt text](/Media/HapticGloveProgram.mp4?raw=true "CreateTicket")
+![Alt text](/Media/HapticGloveProgram2.mp4?raw=true "Seats")
+![Alt text](/Media/HapticGloveProgram3.mp4?raw=true "SelectSeat")
+![Alt text](/Media/HapticGloveProgram4.jpg?raw=true "Ticket")
 
 
 
