@@ -12,7 +12,7 @@ It has always been a challenge for the visually impaired (VI) to access the Web,
 
 ## Example/ Demo:
 
-### Videos (Click on it to see the program in action!)
+### Videos (Click on these two images to see the program in action!)
 [![Watch the video](https://img.youtube.com/vi/KkI5p82diI4/maxresdefault.jpg)](https://youtu.be/KkI5p82diI4)
 [![Watch the video](https://img.youtube.com/vi/Pz0EBIFvIXE/maxresdefault.jpg)](https://youtu.be/Pz0EBIFvIXE)
 
